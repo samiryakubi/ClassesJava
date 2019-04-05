@@ -1,0 +1,31 @@
+package com.class16;
+
+public class car {
+
+		String make, model, color;
+		int door, wheels;
+		
+		public static void main(String[] args) {
+			
+			// ClassName variableName=new ClassName();
+			//1 object
+			car car1=new car();
+			car1.make="Honda";
+			car1.model="Civic";
+			car1.color="Black";
+			car1.door=4;
+			car1.wheels=4;
+			
+			//2 object
+			car car2=new car();
+			car2.make="Tesla";
+			car2.model="X";
+			car2.color="Blue";
+			car2.door=4;
+			car2.wheels=4;
+		}
+	}
+
+
+
+

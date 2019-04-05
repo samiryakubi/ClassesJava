@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		 
+				int num = 121 ;
+			  		Scanner userInput = new Scanner (System.in);
+			  		System.out.println("Find out if a number is Even or ODD");
+			  	      num = userInput.nextInt();
+					
+					if (num % 2 == 0) {
+					   System.out.println("Even");
+					}else {
+						System.out.println(" Odd");
+		}
+	}
+
+}

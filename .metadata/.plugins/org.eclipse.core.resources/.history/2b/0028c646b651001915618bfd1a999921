@@ -1,0 +1,15 @@
+package com.randomP;
+
+public class HmWrk70 {
+
+	public static void main(String[] args) {
+		
+	 String str = "abracadabra alakazam";
+		    String target1 = "dab";
+		    String target2 = "ABRA";
+		    
+		    int index=str.indexOf("c");
+                System.out.println(index);
+	}
+
+}

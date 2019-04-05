@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+ class Mainclass {
+
+	public static void main(String[] args) {
+		 
+		Scanner scanner=new Scanner(System.in);
+		System.out.println("Please enter any number");
+		int myNumber=scanner.nextInt();
+		System.out.println("The number you entered is "+ myNumber);
+	   }
+	}

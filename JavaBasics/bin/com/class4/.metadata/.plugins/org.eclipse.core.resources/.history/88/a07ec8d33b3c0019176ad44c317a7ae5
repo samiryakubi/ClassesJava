@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+ class Mainclass {
+
+	public static void main(String[] args) {
+		 
+	     int age ;
+	     int pls = 10 ;
+	     Scanner userInput = new Scanner (System.in);
+	     System.out.println("Enter your age");
+	     age = userInput.nextInt();
+	     int sum;
+		System.out.println(age + sum);
+	     
+	   }
+	}

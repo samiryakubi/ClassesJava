@@ -1,0 +1,14 @@
+package com.randomP;
+
+public class HmWrk70 {
+
+	public static void main(String[] args) {
+		String str = new String ("laptops out for harambe");
+        System.out.println(str.substring(5));
+        System.out.println(str.substring(7,10));
+        System.out.println(str.substring(16));
+        System.out.print(str.charAt(3));
+
+	}
+
+}

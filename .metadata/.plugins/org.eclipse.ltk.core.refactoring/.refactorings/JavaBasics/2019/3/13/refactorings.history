@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.class14.StringManupulations&apos; to &apos;StringManupulationsReplace&apos;&#x0A;- Original project: &apos;JavaBasics&apos;&#x0A;- Original element: &apos;com.class14.StringManupulations&apos;&#x0A;- Renamed element: &apos;com.class14.StringManupulationsReplace&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StringManupulations&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.class14{StringManupulations.java[StringManupulations" matchStrategy="1" name="StringManupulationsReplace" qualified="false" references="true" similarDeclarations="false" stamp="1553956878864" textual="false" version="1.0"/>
+</session>

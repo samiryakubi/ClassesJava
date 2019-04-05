@@ -1,0 +1,24 @@
+package com.class16;
+
+public class Computer {
+	boolean mouse, keyboard, screen;
+    int ram;
+    String os;
+
+    public static void main(String[] args) {
+        Computer com1 = new Computer();
+        com1.mouse = true;
+        com1.keyboard = true;
+        com1.screen = true;
+        com1.ram = 8;
+        com1.os = "Windows";
+
+        Computer com2 = new Computer();
+        com2.mouse = false;
+        com2.keyboard = false;
+        com2.screen = true;
+        com2.ram = 6;
+        com2.os = "Mac Os";
+
+    }
+}

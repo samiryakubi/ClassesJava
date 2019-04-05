@@ -1,0 +1,16 @@
+package com.randomP;
+
+public class HmWrk69 {
+
+	public static void main(String[] args) {
+		 //starts the code from here
+		   String s1="hello how are you"; 
+		 
+		   
+		   System.out.println(s1.startsWith("u"));
+		   System.out.println(s1.startsWith("world"));
+		   System.out.println(s1.startsWith("are"));
+		   System.out.println(s1.startsWith("you"));
+	
+	      }
+		}

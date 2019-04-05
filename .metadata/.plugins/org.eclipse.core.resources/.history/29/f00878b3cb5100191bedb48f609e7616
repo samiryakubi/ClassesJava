@@ -1,0 +1,13 @@
+package com.randomP;
+
+public class HmWrk72 {
+ public static void main (String [] args) {
+	
+	 String str = "boopity bop";
+	 
+	 System.out.print(str.indexOf(5));
+	 System.out.print(str.indexOf(8));
+	 System.out.print(str.indexOf(1));
+	 System.out.print(str.indexOf(10));
+   }
+}

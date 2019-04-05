@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+ class Mainclass {
+
+	public static void main(String[] args) {
+		 
+		  String name ;
+		    
+		    Scanner userInput = new Scanner (System.in);
+		    
+		    System.out.println(" Hello , please Enter user name");
+		    name = userInput.next();
+		    
+		    System.out.println("your name is Aziz");
+		    name = userInput.next();
+		  }
+		}

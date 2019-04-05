@@ -1,0 +1,23 @@
+package com.randomP;
+
+public class Main {
+   
+	String name ;
+	int roll_no;
+	
+	
+	public static void main(String[] args) {
+		//76
+		
+		Main name1=new Main();
+		
+		name1.name="Johan";
+		name1.roll_no=2;
+		
+		System.out.println("Name is "+name1.name+name1.roll_no);
+		
+		
+
+	}
+
+}

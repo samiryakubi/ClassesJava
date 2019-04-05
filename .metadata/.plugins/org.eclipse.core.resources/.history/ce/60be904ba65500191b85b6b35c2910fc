@@ -1,0 +1,32 @@
+package com.class14T;
+
+public class opps {
+
+		String make, model, color;
+		int door, wheels;
+		
+		public static void main(String[] args) {
+			
+			// ClassName variableName=new ClassName();
+			//1 object
+			Car car1=new Car();
+			car1.make="Honda";
+			car1.model="Civic";
+			car1.color="Black";
+			car1.door=4;
+			car1.wheels=4;
+			
+			//2 object
+			Car car2=new Car();
+			car2.make="Tesla";
+			car2.model="X";
+			car2.color="Blue";
+			car2.door=4;
+			car2.wheels=4;
+		}
+	}
+	Collapse
+
+
+
+
