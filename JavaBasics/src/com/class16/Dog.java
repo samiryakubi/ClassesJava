@@ -7,7 +7,8 @@ public class Dog {
     
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-			Dog dog1=new Dog();
+			
+    		Dog dog1=new Dog();
 			dog1.breed="Hasky";
 			dog1.angryDog=false;
 			dog1.color="Grey";
