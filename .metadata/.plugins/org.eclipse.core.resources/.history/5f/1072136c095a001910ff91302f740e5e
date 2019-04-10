@@ -1,0 +1,18 @@
+package com.randomP;
+
+public class Main88 {
+	boolean beTrue;
+
+	boolean beTrue() {
+		return true;
+	}
+
+	public static void main(String[] args) {
+		
+		Main88 bW = new Main88();
+		
+		bW.beTrue=true;
+
+	}
+
+}

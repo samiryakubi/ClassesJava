@@ -1,0 +1,24 @@
+package com.randomP;
+
+public class Main87 {
+
+	void method1(int a){
+	    System.out.println(a);
+	  }
+	void method1(String b) {
+		System.out.println(b);
+	}
+	void mehod1(double c) {
+		System.out.println(c);
+	}
+	void mehod11(float E) {
+		System.out.println(E);
+	}
+	
+	  public static void main(String[] args) {
+		  
+		  
+      }
+
+	}
+

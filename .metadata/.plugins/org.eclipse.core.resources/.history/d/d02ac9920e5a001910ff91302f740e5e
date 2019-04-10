@@ -1,0 +1,14 @@
+package com.HmWrk;
+
+public class Main90 {
+	String makeCapital(String a)
+	{
+		return name.toUpperCase();
+	}
+	
+	//test case below (dont change):
+	public static void main(String[] args){
+	  Main90 m=new Main90();
+		System.out.println(m.makeCapital("test"));
+	}
+}

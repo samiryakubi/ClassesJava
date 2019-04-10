@@ -1,0 +1,15 @@
+package com.randomP;
+
+public class Main84 {
+	void PrintTwice(){
+	    System.out.println("Don't make me say this twice!");
+	  }
+	  
+	  public static void main(String[] args) {
+	    
+	    Main84 ss =new Main84();
+	    
+	    ss.PrintTwice();
+	    ss.PrintTwice();
+	  }
+	}

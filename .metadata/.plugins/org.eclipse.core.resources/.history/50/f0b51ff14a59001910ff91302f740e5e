@@ -1,0 +1,20 @@
+package com.randomP;
+
+public class Main80 {
+
+
+	   void newline(){
+	     System.out.println("newLine method implementation");
+	   }
+	   void newline2(){
+		     System.out.println("newLine method implementation");
+		   }
+	   void newline1(){
+		     System.out.println("newLine method implementation");
+		   }
+	  public static void main(String[] args) {
+	    Main80 mm= new Main80();
+	    mm.newline();
+	  
+	}
+}
