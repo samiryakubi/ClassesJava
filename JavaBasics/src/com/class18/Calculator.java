@@ -1,17 +1,17 @@
 package com.class18;
 
 public class Calculator {
-	int sum(int a, int b, int c) {
+	public int sum(int a, int b, int c) {
         return(a+b+c);
         
     }
     
-    int average(int a, int b, int c) {
+    public int average(int a, int b, int c) {
         return(a+b+c)/3;
         
     }
     
-    int min(int a, int b, int c) {
+    public int min(int a, int b, int c) {
         
         int min = a;
         
@@ -26,7 +26,7 @@ public class Calculator {
         
     }
     
-    int max(int a, int b, int c) {
+    public int max(int a, int b, int c) {
         int max = a;
         
         if(b>a) {

@@ -2,7 +2,7 @@ package com.class18;
 
 public class Minimum {
 
-	static int minOfValues(int [] x) {
+	public static int minOfValues(int [] x) {
 		        
 		        int min = x[0];
 		        
@@ -14,7 +14,7 @@ public class Minimum {
 		        }
 		        return min;  
 		    }
-    static int maxOfValues(int[] array) {
+    public static int maxOfValues(int[] array) {
 
         int max = array[0];
 

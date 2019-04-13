@@ -13,8 +13,7 @@ public class Application1 {
 		        System.out.println(anim.weight);
 		        System.out.println(anim.breed);
 		        System.out.println(anim.name);
-		        
-		        
+		      
 		        System.out.println(anim.canBark());
 		        
 		        
@@ -28,16 +27,12 @@ public class Application1 {
 		Animal anim2 = new Animal();        
 
 		System.out.println("This is anim2" );
-
-		        System.out.println(anim2.age);
-		        System.out.println(anim2.weight);
-		        System.out.println(anim2.breed);
-		        System.out.println(anim2.name);
-		        
-		        
-
-
-		        
+		
+				        System.out.println(anim2.age);
+				        System.out.println(anim2.weight);
+				        System.out.println(anim2.breed);
+				        System.out.println(anim2.name);
+		           
 		        Animal anim3 = new Animal();        
 
 		        System.out.println("This is anim3" );
