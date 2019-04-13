@@ -13,21 +13,24 @@ public class Employee {
 				//  Set the value of eID, salary for each of the objects
 				//	Print out the eID , salary and  CEO for each of the objects
 		
-	Employee emp1 = new Employee();
+		Employee emp1 = new Employee();
 		emp1.eID = "co143";
 		emp1.Salary = 90000;
 		emp1.getEmployeeInfo();
 		
 		System.out.println();
 		
-	Employee emp2= new Employee();
+		Employee emp2= new Employee();
 		emp2.eID ="DO143";
 		emp2.Salary=11000;
 		emp2.getEmployeeInfo();
 		
 	}
+	
+
     public void getEmployeeInfo() {
-		System.out.println("CEO "+CEO+"\nEmployee ID "+eID+"\nSalary "+Salary);	
+		System.out.println("CEO "+CEO+"\nEmployee ID "+eID+"\nSalary "+Salary);
+		
 	}
 
 }

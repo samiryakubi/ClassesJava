@@ -1,6 +1,6 @@
-package com.class17;
+package com.HmWrk;
 
-public class MethodWithreturnValue {
+public class RockPaperSc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

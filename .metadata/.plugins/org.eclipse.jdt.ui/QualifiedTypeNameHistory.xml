@@ -3,5 +3,8 @@
 <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSeparatorUI"/>
 <fullyQualifiedTypeName name="com.class17_2.ScannerMethod"/>
 <fullyQualifiedTypeName name="com.class17.Calculator"/>
+<fullyQualifiedTypeName name="com.class18.Minimum"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.class20.AccessModifiers"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
