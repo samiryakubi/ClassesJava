@@ -7,7 +7,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		Main car1=new Main ();
+		Main333 car1=new Main333 ();
 		
 		car1.color= "Black";
 		car1.name ="BMW";
@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("Car color is "+car1.color+" and car model year is "+car1.modelYear +" and car name is "+car1.name);
         
 		//2object
-        Main car2=new Main ();
+        Main333 car2=new Main333 ();
 		
 		car2.color= "White";
 		car2.name ="Toyota";
