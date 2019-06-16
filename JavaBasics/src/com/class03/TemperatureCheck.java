@@ -11,7 +11,5 @@ public class TemperatureCheck {
 	        } else {
 	            System.out.println("Water will not freeze with temperature "+ temperature);
 	        }
-
 	    }
-
 	}

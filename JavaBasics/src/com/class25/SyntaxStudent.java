@@ -1,7 +1,7 @@
 package com.class25;
 
 public class SyntaxStudent extends Student {
-	public boolean study() { not possible
+//	public boolean study() { not possible
 //		
 //		System.out.println("Syntax students must study HARD");
 //		return true;
@@ -19,3 +19,4 @@ public class SyntaxStudent extends Student {
 		System.out.println("Syntax students must make uncle Google as best friend");
 	}
 }
+	

@@ -32,7 +32,5 @@ public class PracticInterview {
 		}else {
 			System.out.println("End of the year paryt time");
 		}
-
 	}
-
 }

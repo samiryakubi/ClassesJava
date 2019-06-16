@@ -1,9 +1,0 @@
-package com.HmWrk;
-
-public class Main92 {
-	//test case below (dont change):
-	public static void main(String[] args){
-		System.out.println("-8"); //should be -8
-		System.out.println("2"); //should be 2
-	}
-}
